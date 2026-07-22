@@ -1,0 +1,1855 @@
+[
+  {
+    "id": "b01",
+    "name": "טוסט חלבון עם גבינה צהובה וביצה",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 30,
+      "carbs_g": 30,
+      "fat_g": 20
+    },
+    "times": {
+      "prep_min": 7,
+      "cook_min": 8
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "2 פרוסות לחם מלא",
+      "2 ביצים",
+      "2 פרוסות גבינה צהובה 9%",
+      "תרסיס שמן או מעט חמאה קלה",
+      "עגבנייה חתוכה בצד"
+    ],
+    "steps": [
+      "קולים את הלחם.",
+      "מכינים חביתה מ-2 ביצים.",
+      "מרכיבים טוסט עם הגבינה והחביתה ומגישים עם עגבנייה."
+    ],
+    "tags": [
+      "quick",
+      "savory",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "b02",
+    "name": "כריך גבינה לבנה ופסטרמה בלחם מלא",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 31,
+      "carbs_g": 34,
+      "fat_g": 11
+    },
+    "times": {
+      "prep_min": 5,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "2 פרוסות לחם מלא",
+      "100 גרם גבינה לבנה 5%",
+      "80 גרם פסטרמה איכותית",
+      "מלפפון ועגבנייה"
+    ],
+    "steps": [
+      "מורחים גבינה לבנה על הלחם.",
+      "מוסיפים פסטרמה וירקות וסוגרים לכריך."
+    ],
+    "tags": [
+      "quick",
+      "office",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "b03",
+    "name": "יוגורט יווני עם בננה, תות ושיבולת שועל",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 32,
+      "carbs_g": 48,
+      "fat_g": 10
+    },
+    "times": {
+      "prep_min": 5,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "250 גרם יוגורט יווני",
+      "1 בננה קטנה",
+      "5 תותים",
+      "30 גרם שיבולת שועל",
+      "כפית דבש לפי הצורך"
+    ],
+    "steps": [
+      "מערבבים את היוגורט בקערה.",
+      "חותכים את הפירות ומוסיפים מעל.",
+      "מפזרים שיבולת שועל ומעט דבש אם צריך."
+    ],
+    "tags": [
+      "sweet",
+      "high-protein",
+      "easy"
+    ]
+  },
+  {
+    "id": "b04",
+    "name": "שייק נינג׳ה תות-בננה-יוגורט",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 28,
+      "carbs_g": 40,
+      "fat_g": 8
+    },
+    "times": {
+      "prep_min": 5,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "200 גרם יוגורט יווני",
+      "1 בננה",
+      "100 גרם תות קפוא",
+      "150 מ״ל חלב סויה ללא סוכר",
+      "20 גרם שיבולת שועל"
+    ],
+    "steps": [
+      "שמים הכל בבלנדר.",
+      "טוחנים עד מרקם חלק ושותים מיד."
+    ],
+    "tags": [
+      "smoothie",
+      "quick",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "b05",
+    "name": "שקשוקה עדינה עם גבינה בולגרית קלה ולחם מלא",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 27,
+      "carbs_g": 33,
+      "fat_g": 20
+    },
+    "times": {
+      "prep_min": 10,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "2 ביצים",
+      "200 גרם עגבניות מרוסקות",
+      "30 גרם גבינה בולגרית קלה",
+      "כפית שמן זית",
+      "2 פרוסות לחם מלא"
+    ],
+    "steps": [
+      "מבשלים את רוטב העגבניות בעדינות.",
+      "שוברים פנימה את הביצים ומבשלים עד שהן מוכנות.",
+      "מוסיפים גבינה ומגישים עם לחם מלא."
+    ],
+    "tags": [
+      "savory",
+      "weekend",
+      "protein"
+    ]
+  },
+  {
+    "id": "b06",
+    "name": "טורטיית בוקר עם ביצים וגבינה",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 450,
+      "protein_g": 29,
+      "carbs_g": 32,
+      "fat_g": 21
+    },
+    "times": {
+      "prep_min": 8,
+      "cook_min": 8
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "1 טורטייה בינונית",
+      "2 ביצים",
+      "2 כפות גבינה לבנה",
+      "1 פרוסת גבינה צהובה",
+      "עגבנייה קצוצה"
+    ],
+    "steps": [
+      "מכינים ביצים מקושקשות.",
+      "מורחים גבינה לבנה על הטורטייה.",
+      "מוסיפים ביצים, גבינה צהובה ועגבנייה ומגלגלים."
+    ],
+    "tags": [
+      "wrap",
+      "quick",
+      "portable"
+    ]
+  },
+  {
+    "id": "b07",
+    "name": "קערת קוטג׳, אגס וקינמון",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 330,
+      "protein_g": 29,
+      "carbs_g": 24,
+      "fat_g": 11
+    },
+    "times": {
+      "prep_min": 4,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "250 גרם קוטג׳ 5%",
+      "1 אגס חתוך",
+      "כפית קינמון",
+      "10 גרם אגוזים קצוצים"
+    ],
+    "steps": [
+      "שמים קוטג׳ בקערה.",
+      "מוסיפים אגס, קינמון ואגוזים."
+    ],
+    "tags": [
+      "sweet",
+      "light",
+      "protein"
+    ]
+  },
+  {
+    "id": "b08",
+    "name": "טוסט טונה ללא מיונז עם גבינה צהובה",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 32,
+      "carbs_g": 29,
+      "fat_g": 16
+    },
+    "times": {
+      "prep_min": 7,
+      "cook_min": 5
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "2 פרוסות לחם מלא",
+      "חצי קופסת טונה במים מסוננת",
+      "2 כפות יוגורט יווני",
+      "פרוסת גבינה צהובה",
+      "מלפפון בצד"
+    ],
+    "steps": [
+      "מערבבים טונה עם יוגורט.",
+      "מורחים על הלחם, מוסיפים גבינה וצולים בטוסטר."
+    ],
+    "tags": [
+      "toast",
+      "protein"
+    ]
+  },
+  {
+    "id": "b09",
+    "name": "פיתה מלאה עם חביתה, טחינה ועגבנייה",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 26,
+      "carbs_g": 40,
+      "fat_g": 22
+    },
+    "times": {
+      "prep_min": 8,
+      "cook_min": 8
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "1 פיתה מלאה קטנה",
+      "2 ביצים",
+      "כף טחינה גולמית מדוללת",
+      "עגבנייה חתוכה"
+    ],
+    "steps": [
+      "מכינים חביתה.",
+      "פותחים את הפיתה וממלאים בחביתה, טחינה ועגבנייה."
+    ],
+    "tags": [
+      "portable",
+      "savory"
+    ]
+  },
+  {
+    "id": "b10",
+    "name": "יוגורט יווני עם קקאו, בננה וחמאת בוטנים",
+    "category": "Breakfast",
+    "mealType": "breakfast",
+    "servings": 1,
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 31,
+      "carbs_g": 34,
+      "fat_g": 18
+    },
+    "times": {
+      "prep_min": 4,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "250 גרם יוגורט יווני",
+      "1 בננה קטנה",
+      "כפית קקאו",
+      "כף חמאת בוטנים טבעית"
+    ],
+    "steps": [
+      "מערבבים את הקקאו בתוך היוגורט.",
+      "פורסים בננה מעל ומוסיפים חמאת בוטנים."
+    ],
+    "tags": [
+      "sweet",
+      "protein",
+      "dessert-like"
+    ]
+  },
+  {
+    "id": "m11",
+    "name": "חזה עוף פלאנצ׳ה עם אורז וטחינה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 48,
+      "carbs_g": 52,
+      "fat_g": 20
+    },
+    "times": {
+      "prep_min": 10,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "200 גרם חזה עוף",
+      "150 גרם אורז מבושל",
+      "כף וחצי טחינה גולמית מדוללת",
+      "מלח, פלפל, פפריקה",
+      "עגבנייה ומלפפון בצד"
+    ],
+    "steps": [
+      "מתבלים את העוף וצולים על פלאנצ׳ה.",
+      "מגישים עם אורז וטחינה בצד."
+    ],
+    "tags": [
+      "meal-prep",
+      "classic",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "m12",
+    "name": "פרגיות עם פתיתים וירקות מבושלים",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 670,
+      "protein_g": 44,
+      "carbs_g": 55,
+      "fat_g": 26
+    },
+    "times": {
+      "prep_min": 12,
+      "cook_min": 20
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "220 גרם פרגיות",
+      "160 גרם פתיתים מבושלים",
+      "גזר ובצל מבושלים",
+      "כפית שמן זית",
+      "תבלינים"
+    ],
+    "steps": [
+      "צולים את הפרגיות עד השחמה.",
+      "מבשלים פתיתים בנפרד.",
+      "מגישים עם ירקות מבושלים."
+    ],
+    "tags": [
+      "meal-prep",
+      "family"
+    ]
+  },
+  {
+    "id": "m13",
+    "name": "המבורגר ביתי עם תפוחי אדמה בתנור",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 690,
+      "protein_g": 43,
+      "carbs_g": 46,
+      "fat_g": 31
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 25
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "180 גרם בשר בקר רזה",
+      "250 גרם תפוחי אדמה",
+      "לחמניית המבורגר מלאה",
+      "עגבנייה ומלפפון חמוץ",
+      "כפית שמן זית"
+    ],
+    "steps": [
+      "יוצרים קציצה מהבשר וצולים.",
+      "חותכים תפוחי אדמה ואופים עם מעט שמן.",
+      "מרכיבים המבורגר ומגישים עם תפוחי האדמה."
+    ],
+    "tags": [
+      "weekend",
+      "burger",
+      "satisfying"
+    ]
+  },
+  {
+    "id": "m14",
+    "name": "שניצל אפוי עם פירה ותירס",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 630,
+      "protein_g": 46,
+      "carbs_g": 53,
+      "fat_g": 18
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 25
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "200 גרם חזה עוף",
+      "25 גרם פירורי לחם",
+      "1 ביצה",
+      "250 גרם תפוחי אדמה",
+      "80 גרם תירס"
+    ],
+    "steps": [
+      "מצפים את העוף בביצה ופירורים ואופים.",
+      "מכינים פירה מתפוחי האדמה.",
+      "מגישים עם תירס בצד."
+    ],
+    "tags": [
+      "family",
+      "freezer",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "m15",
+    "name": "קציצות עוף ברוטב עגבניות עם אורז",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 42,
+      "carbs_g": 49,
+      "fat_g": 20
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 30
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "400 גרם עוף טחון",
+      "1 ביצה",
+      "בצל קצוץ",
+      "400 גרם עגבניות מרוסקות",
+      "150 גרם אורז מבושל למנה",
+      "תבלינים"
+    ],
+    "steps": [
+      "מערבבים עוף טחון עם ביצה, בצל ותבלינים ויוצרים קציצות.",
+      "מבשלים ברוטב עגבניות כ-25 דקות.",
+      "מגישים עם אורז."
+    ],
+    "tags": [
+      "meal-prep",
+      "freezer",
+      "family"
+    ]
+  },
+  {
+    "id": "m16",
+    "name": "בולונז רזה עם פסטה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 41,
+      "carbs_g": 58,
+      "fat_g": 19
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 35
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "400 גרם בשר בקר רזה",
+      "250 גרם רוטב עגבניות",
+      "160 גרם פסטה יבשה",
+      "בצל קצוץ",
+      "גזר מגורר דק"
+    ],
+    "steps": [
+      "מטגנים בצל ובשר עד פירוק.",
+      "מוסיפים רוטב וגזר ומבשלים 20 דקות.",
+      "מבשלים פסטה ומגישים עם הבולונז."
+    ],
+    "tags": [
+      "meal-prep",
+      "freezer",
+      "pasta"
+    ]
+  },
+  {
+    "id": "m17",
+    "name": "צ׳ילי בקר עם אורז",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 660,
+      "protein_g": 44,
+      "carbs_g": 54,
+      "fat_g": 22
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 40
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "400 גרם בשר טחון רזה",
+      "כוס שעועית אדומה מבושלת",
+      "250 גרם עגבניות מרוסקות",
+      "תירס",
+      "תבלין צ׳ילי עדין",
+      "150 גרם אורז מבושל למנה"
+    ],
+    "steps": [
+      "מבשלים את הבשר עם בצל ותבלינים.",
+      "מוסיפים עגבניות, שעועית ותירס ומבשלים עד סמיכות.",
+      "מגישים עם אורז."
+    ],
+    "tags": [
+      "meal-prep",
+      "freezer",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "m18",
+    "name": "מוקפץ עוף, נודלס וירקות",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 43,
+      "carbs_g": 61,
+      "fat_g": 14
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "400 גרם חזה עוף",
+      "140 גרם נודלס יבש",
+      "גזר, פלפל, שעועית ירוקה, תירס, אננס",
+      "סויה דלת נתרן",
+      "שום וג׳ינג׳ר"
+    ],
+    "steps": [
+      "צורבים עוף ברצועות.",
+      "מוסיפים ירקות ואז רוטב.",
+      "מערבבים עם נודלס מבושלים."
+    ],
+    "tags": [
+      "stir-fry",
+      "meal-prep",
+      "family"
+    ]
+  },
+  {
+    "id": "m19",
+    "name": "בוריטו עוף ואורז עם יוגורט-ציזיקי",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 46,
+      "carbs_g": 58,
+      "fat_g": 19
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "1 טורטייה גדולה",
+      "180 גרם חזה עוף",
+      "120 גרם אורז מבושל",
+      "2 כפות יוגורט יווני עם מלפפון",
+      "תירס ועגבנייה"
+    ],
+    "steps": [
+      "צולים את העוף ומתבלים.",
+      "ממלאים טורטייה באורז, עוף, תירס, עגבנייה ורוטב יוגורט.",
+      "מגלגלים וצורבים קלות במחבת."
+    ],
+    "tags": [
+      "wrap",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "m20",
+    "name": "טורטיית בשר טחון וטחינה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 670,
+      "protein_g": 42,
+      "carbs_g": 46,
+      "fat_g": 28
+    },
+    "times": {
+      "prep_min": 12,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "1 טורטייה גדולה",
+      "180 גרם בשר טחון רזה",
+      "כף טחינה",
+      "עגבנייה קצוצה",
+      "מלפפון חתוך",
+      "תבלינים"
+    ],
+    "steps": [
+      "מטגנים את הבשר עם תבלינים.",
+      "מורחים טחינה על הטורטייה.",
+      "מוסיפים בשר וירקות ומגלגלים."
+    ],
+    "tags": [
+      "wrap",
+      "satisfying"
+    ]
+  },
+  {
+    "id": "m21",
+    "name": "עוף בגריל עם בטטה ותירס",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 47,
+      "carbs_g": 45,
+      "fat_g": 18
+    },
+    "times": {
+      "prep_min": 10,
+      "cook_min": 30
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "200 גרם עוף בגריל",
+      "250 גרם בטטה",
+      "80 גרם תירס",
+      "כפית שמן זית",
+      "תבלינים"
+    ],
+    "steps": [
+      "מתבלים ואופים את הבטטה.",
+      "מכינים את העוף בגריל.",
+      "מגישים עם תירס."
+    ],
+    "tags": [
+      "meal-prep",
+      "family"
+    ]
+  },
+  {
+    "id": "m22",
+    "name": "פרגיות בתנור עם אורז וירקות שורש",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 42,
+      "carbs_g": 50,
+      "fat_g": 24
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 35
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "450 גרם פרגיות",
+      "160 גרם אורז יבש לכל הסיר",
+      "גזר ובצל",
+      "כפית שמן",
+      "תבלינים"
+    ],
+    "steps": [
+      "אופים את הפרגיות עם תבלינים.",
+      "מבשלים אורז בנפרד.",
+      "צולים ירקות שורש ומחלקים למנות."
+    ],
+    "tags": [
+      "meal-prep",
+      "freezer"
+    ]
+  },
+  {
+    "id": "m23",
+    "name": "קציצות בקר ברוטב עם פירה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 670,
+      "protein_g": 43,
+      "carbs_g": 47,
+      "fat_g": 26
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 35
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "400 גרם בקר טחון רזה",
+      "1 ביצה",
+      "בצל",
+      "עגבניות מרוסקות",
+      "תפוחי אדמה לפירה"
+    ],
+    "steps": [
+      "יוצרים קציצות ומבשלים ברוטב.",
+      "מכינים פירה חלק.",
+      "מגישים יחד."
+    ],
+    "tags": [
+      "meal-prep",
+      "freezer",
+      "comfort"
+    ]
+  },
+  {
+    "id": "m24",
+    "name": "פסטה רוזה חלבונית עם עוף",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 630,
+      "protein_g": 46,
+      "carbs_g": 55,
+      "fat_g": 16
+    },
+    "times": {
+      "prep_min": 12,
+      "cook_min": 20
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "350 גרם חזה עוף",
+      "160 גרם פסטה יבשה",
+      "200 גרם רסק/רוטב עגבניות עדין",
+      "100 גרם יוגורט יווני",
+      "שום ותבלינים"
+    ],
+    "steps": [
+      "צולים עוף בקוביות.",
+      "מבשלים פסטה.",
+      "מכינים רוטב עגבניות עדין, מכבים אש ומערבבים פנימה יוגורט, ואז מוסיפים עוף ופסטה."
+    ],
+    "tags": [
+      "pasta",
+      "protein",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "m25",
+    "name": "אורז עם עוף מפורק וטחינה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 45,
+      "carbs_g": 49,
+      "fat_g": 18
+    },
+    "times": {
+      "prep_min": 10,
+      "cook_min": 25
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "450 גרם חזה עוף",
+      "2 כוסות אורז מבושל",
+      "2 כפות טחינה מדוללת",
+      "בצל מבושל",
+      "תבלינים"
+    ],
+    "steps": [
+      "מבשלים או צולים את העוף ומפוררים.",
+      "מכינים אורז.",
+      "מחלקים לקופסאות עם טחינה מעל או בצד."
+    ],
+    "tags": [
+      "meal-prep",
+      "freezer"
+    ]
+  },
+  {
+    "id": "m26",
+    "name": "חזה עוף בציפוי פריך בתנור עם פתיתים",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 47,
+      "carbs_g": 54,
+      "fat_g": 16
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 25
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "200 גרם חזה עוף",
+      "25 גרם פירורי לחם",
+      "160 גרם פתיתים מבושלים",
+      "ביצה",
+      "תבלינים"
+    ],
+    "steps": [
+      "מצפים את חזה העוף ואופים עד פריכות.",
+      "מבשלים פתיתים ומגישים יחד."
+    ],
+    "tags": [
+      "family",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "m27",
+    "name": "מגש עוף, תפוחי אדמה וגזר בתנור",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 44,
+      "carbs_g": 41,
+      "fat_g": 18
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 40
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "450 גרם כרעי עוף ללא עור או חזה עוף",
+      "300 גרם תפוחי אדמה",
+      "2 גזרים",
+      "שמן זית ותבלינים"
+    ],
+    "steps": [
+      "מסדרים הכל על מגש.",
+      "אופים עד השחמה וריכוך.",
+      "מחלקים לקופסאות."
+    ],
+    "tags": [
+      "tray-bake",
+      "freezer",
+      "family"
+    ]
+  },
+  {
+    "id": "m28",
+    "name": "בורגר טורטייה עם גבינה קלה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 43,
+      "carbs_g": 39,
+      "fat_g": 29
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 12
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "180 גרם קציצת בקר רזה",
+      "1 טורטייה",
+      "פרוסת גבינה צהובה קלה",
+      "עגבנייה ומלפפון חמוץ",
+      "רוטב יוגורט-חרדל"
+    ],
+    "steps": [
+      "צולים את ההמבורגר.",
+      "מחממים את הטורטייה.",
+      "מרכיבים כמו ראפ עם גבינה ורוטב."
+    ],
+    "tags": [
+      "burger",
+      "wrap",
+      "weekend"
+    ]
+  },
+  {
+    "id": "m29",
+    "name": "טוסט בשר וגבינה משודרג",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 39,
+      "carbs_g": 38,
+      "fat_g": 22
+    },
+    "times": {
+      "prep_min": 8,
+      "cook_min": 8
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "2 פרוסות לחם מלא עבות",
+      "120 גרם בשר טחון מבושל",
+      "2 פרוסות גבינה צהובה קלה",
+      "עגבנייה פרוסה"
+    ],
+    "steps": [
+      "מבשלים מראש בשר מתובל.",
+      "מרכיבים טוסט עם בשר, גבינה ועגבנייה וצולים."
+    ],
+    "tags": [
+      "toast",
+      "comfort"
+    ]
+  },
+  {
+    "id": "m30",
+    "name": "עוף מוקפץ עם אורז, אננס ופלפל",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 42,
+      "carbs_g": 59,
+      "fat_g": 13
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "400 גרם חזה עוף",
+      "2 כוסות אורז מבושל",
+      "פלפל, גזר, אננס, תירס",
+      "סויה דלת נתרן"
+    ],
+    "steps": [
+      "מקפיצים עוף.",
+      "מוסיפים ירקות ואננס.",
+      "מגישים עם אורז."
+    ],
+    "tags": [
+      "stir-fry",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "m31",
+    "name": "פילה עוף ברוטב טריאקי קל עם אורז",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 45,
+      "carbs_g": 57,
+      "fat_g": 14
+    },
+    "times": {
+      "prep_min": 10,
+      "cook_min": 18
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "400 גרם פילה עוף",
+      "2 כוסות אורז מבושל",
+      "רוטב טריאקי לייט",
+      "שום",
+      "תירס"
+    ],
+    "steps": [
+      "צולים את העוף.",
+      "מוסיפים רוטב טריאקי קל ותירס.",
+      "מגישים על אורז."
+    ],
+    "tags": [
+      "meal-prep",
+      "asian-style"
+    ]
+  },
+  {
+    "id": "m32",
+    "name": "קבב ביתי בתנור עם תפוחי אדמה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 660,
+      "protein_g": 41,
+      "carbs_g": 43,
+      "fat_g": 28
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 30
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "400 גרם בקר טחון רזה",
+      "בצל מגורר",
+      "תבליני קבב",
+      "300 גרם תפוחי אדמה"
+    ],
+    "steps": [
+      "מערבבים בשר עם בצל ותבלינים ויוצרים קבבים.",
+      "אופים לצד תפוחי אדמה מתובלים."
+    ],
+    "tags": [
+      "freezer",
+      "family"
+    ]
+  },
+  {
+    "id": "m33",
+    "name": "קציצות עוף אפויות עם אורז וציזיקי",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 2,
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 44,
+      "carbs_g": 47,
+      "fat_g": 16
+    },
+    "times": {
+      "prep_min": 18,
+      "cook_min": 25
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "400 גרם עוף טחון",
+      "ביצה",
+      "תבלינים",
+      "2 כוסות אורז מבושל",
+      "יוגורט יווני ומלפפון לציזיקי"
+    ],
+    "steps": [
+      "יוצרים קציצות ואופים.",
+      "מבשלים אורז.",
+      "מגישים עם ציזיקי קל."
+    ],
+    "tags": [
+      "meal-prep",
+      "freezer"
+    ]
+  },
+  {
+    "id": "m34",
+    "name": "טורטיית שניצל אפוי וטחינה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 43,
+      "carbs_g": 50,
+      "fat_g": 20
+    },
+    "times": {
+      "prep_min": 10,
+      "cook_min": 20
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "1 טורטייה גדולה",
+      "180 גרם שניצל אפוי",
+      "כף טחינה",
+      "עגבנייה ומלפפון",
+      "מעט תירס"
+    ],
+    "steps": [
+      "מכינים שניצל אפוי.",
+      "ממלאים טורטייה בשניצל, טחינה וירקות.",
+      "מגלגלים ומגישים."
+    ],
+    "tags": [
+      "wrap",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "m35",
+    "name": "קערת אורז, המבורגר מפורק וטחינה",
+    "category": "Main",
+    "mealType": "lunch_dinner",
+    "servings": 1,
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 44,
+      "carbs_g": 48,
+      "fat_g": 24
+    },
+    "times": {
+      "prep_min": 12,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "180 גרם בקר רזה",
+      "150 גרם אורז מבושל",
+      "כף טחינה",
+      "עגבנייה ומלפפון",
+      "תבלינים"
+    ],
+    "steps": [
+      "צורבים את הבשר ומפוררים אותו.",
+      "מגישים על אורז עם טחינה וירקות."
+    ],
+    "tags": [
+      "bowl",
+      "satisfying"
+    ]
+  },
+  {
+    "id": "p36",
+    "name": "סיר צ׳ילי גדול ל-4 ימים",
+    "category": "Meal Prep",
+    "mealType": "meal_prep",
+    "servings": 4,
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 42,
+      "carbs_g": 50,
+      "fat_g": 20
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 45
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "800 גרם בשר טחון רזה",
+      "2 כוסות שעועית מבושלת",
+      "500 גרם עגבניות מרוסקות",
+      "2 כוסות תירס",
+      "בצל",
+      "תבלינים"
+    ],
+    "steps": [
+      "מטגנים בצל ובשר.",
+      "מוסיפים את שאר המרכיבים ומבשלים 30 דקות.",
+      "מחלקים ל-4 מנות."
+    ],
+    "tags": [
+      "batch",
+      "freezer",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "p37",
+    "name": "בולונז משפחתי לקופסאות",
+    "category": "Meal Prep",
+    "mealType": "meal_prep",
+    "servings": 4,
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 40,
+      "carbs_g": 55,
+      "fat_g": 18
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 45
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "800 גרם בקר רזה",
+      "320 גרם פסטה יבשה",
+      "500 גרם רוטב עגבניות",
+      "בצל וגזר"
+    ],
+    "steps": [
+      "מבשלים רוטב בולונז גדול.",
+      "מבשלים פסטה בנפרד.",
+      "מחלקים לקופסאות."
+    ],
+    "tags": [
+      "batch",
+      "freezer",
+      "family"
+    ]
+  },
+  {
+    "id": "p38",
+    "name": "עוף ואורז ל-4 קופסאות",
+    "category": "Meal Prep",
+    "mealType": "meal_prep",
+    "servings": 4,
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 45,
+      "carbs_g": 46,
+      "fat_g": 16
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 30
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "900 גרם חזה עוף",
+      "4 כוסות אורז מבושל",
+      "טחינה בצד",
+      "תבלינים"
+    ],
+    "steps": [
+      "צולים את כל העוף בבת אחת.",
+      "מבשלים אורז בכמות גדולה.",
+      "מחלקים ל-4 קופסאות."
+    ],
+    "tags": [
+      "batch",
+      "classic",
+      "freezer"
+    ]
+  },
+  {
+    "id": "p39",
+    "name": "מגש פרגיות, בטטה וגזר ל-4 ימים",
+    "category": "Meal Prep",
+    "mealType": "meal_prep",
+    "servings": 4,
+    "nutrition": {
+      "calories": 630,
+      "protein_g": 42,
+      "carbs_g": 44,
+      "fat_g": 22
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 35
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "900 גרם פרגיות",
+      "700 גרם בטטה",
+      "4 גזרים",
+      "תבלינים"
+    ],
+    "steps": [
+      "מסדרים הכל על מגש גדול.",
+      "אופים עד ריכוך והשחמה.",
+      "מחלקים לקופסאות."
+    ],
+    "tags": [
+      "batch",
+      "tray-bake",
+      "freezer"
+    ]
+  },
+  {
+    "id": "p40",
+    "name": "קציצות עוף ברוטב ל-4 מנות",
+    "category": "Meal Prep",
+    "mealType": "meal_prep",
+    "servings": 4,
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 43,
+      "carbs_g": 42,
+      "fat_g": 17
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 35
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": true
+    },
+    "ingredients": [
+      "800 גרם עוף טחון",
+      "2 ביצים",
+      "בצל",
+      "500 גרם עגבניות מרוסקות",
+      "אורז או פירה בצד"
+    ],
+    "steps": [
+      "יוצרים הרבה קציצות ומבשלים ברוטב.",
+      "מוסיפים תוספת בצד.",
+      "מחלקים ל-4 מנות."
+    ],
+    "tags": [
+      "batch",
+      "freezer",
+      "family"
+    ]
+  },
+  {
+    "id": "p41",
+    "name": "מוקפץ עוף ונודלס ל-4 קופסאות",
+    "category": "Meal Prep",
+    "mealType": "meal_prep",
+    "servings": 4,
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 41,
+      "carbs_g": 58,
+      "fat_g": 14
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 20
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "800 גרם חזה עוף",
+      "280 גרם נודלס יבש",
+      "גזר, פלפל, שעועית ירוקה, תירס, אננס",
+      "סויה דלת נתרן"
+    ],
+    "steps": [
+      "מקפיצים את כל העוף.",
+      "מוסיפים ירקות ורוטב.",
+      "מערבבים עם הנודלס ומחלקים לקופסאות."
+    ],
+    "tags": [
+      "batch",
+      "stir-fry"
+    ]
+  },
+  {
+    "id": "p42",
+    "name": "צ׳יקן בוריטו בול ל-4 ימים",
+    "category": "Meal Prep",
+    "mealType": "meal_prep",
+    "servings": 4,
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 46,
+      "carbs_g": 54,
+      "fat_g": 16
+    },
+    "times": {
+      "prep_min": 20,
+      "cook_min": 25
+    },
+    "storage": {
+      "meal_prep": true,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "900 גרם חזה עוף",
+      "4 כוסות אורז מבושל",
+      "תירס",
+      "עגבנייה",
+      "יוגורט יווני עם מלפפון",
+      "תבלינים בסגנון מקסיקני עדין"
+    ],
+    "steps": [
+      "צולים עוף מתובל.",
+      "מכינים אורז ואת התוספות.",
+      "מחלקים ל-4 קערות עם רוטב יוגורט בצד."
+    ],
+    "tags": [
+      "batch",
+      "burrito-bowl",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "w43",
+    "name": "פיצה טורטייה עם עוף וגבינה",
+    "category": "Weekend",
+    "mealType": "weekend",
+    "servings": 1,
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 40,
+      "carbs_g": 39,
+      "fat_g": 22
+    },
+    "times": {
+      "prep_min": 10,
+      "cook_min": 10
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "1 טורטייה גדולה",
+      "80 גרם רוטב עגבניות עדין",
+      "120 גרם עוף מבושל",
+      "50 גרם גבינה צהובה מגוררת קלה",
+      "אורגנו"
+    ],
+    "steps": [
+      "מורחים רוטב על טורטייה.",
+      "מוסיפים עוף וגבינה.",
+      "אופים או קולים עד שהגבינה נמסה."
+    ],
+    "tags": [
+      "weekend",
+      "pizza-style"
+    ]
+  },
+  {
+    "id": "w44",
+    "name": "בורגר ביתי עם צ׳יפס בטטה אפוי",
+    "category": "Weekend",
+    "mealType": "weekend",
+    "servings": 1,
+    "nutrition": {
+      "calories": 720,
+      "protein_g": 45,
+      "carbs_g": 48,
+      "fat_g": 30
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 30
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "180 גרם בקר רזה",
+      "לחמנייה מלאה",
+      "250 גרם בטטה",
+      "פרוסת גבינה קלה",
+      "עגבנייה ומלפפון חמוץ"
+    ],
+    "steps": [
+      "מכינים המבורגר וצולים.",
+      "אופים מקלות בטטה.",
+      "מגישים בצלחת מסודרת."
+    ],
+    "tags": [
+      "weekend",
+      "burger"
+    ]
+  },
+  {
+    "id": "w45",
+    "name": "טוסט פיצה מלחם מלא",
+    "category": "Weekend",
+    "mealType": "weekend",
+    "servings": 1,
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 32,
+      "carbs_g": 42,
+      "fat_g": 20
+    },
+    "times": {
+      "prep_min": 7,
+      "cook_min": 8
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "2 פרוסות לחם מלא",
+      "60 גרם רוטב עגבניות",
+      "60 גרם גבינה צהובה קלה",
+      "100 גרם עוף מבושל",
+      "אורגנו"
+    ],
+    "steps": [
+      "מורחים רוטב על הלחם.",
+      "מוסיפים גבינה ועוף.",
+      "קולים בטוסטר אובן או מחבת סגורה."
+    ],
+    "tags": [
+      "toast",
+      "pizza-style"
+    ]
+  },
+  {
+    "id": "w46",
+    "name": "בוריטו בקר וגבינה מפנק אך מבוקר",
+    "category": "Weekend",
+    "mealType": "weekend",
+    "servings": 1,
+    "nutrition": {
+      "calories": 730,
+      "protein_g": 44,
+      "carbs_g": 55,
+      "fat_g": 29
+    },
+    "times": {
+      "prep_min": 15,
+      "cook_min": 15
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "1 טורטייה גדולה",
+      "180 גרם בשר טחון רזה",
+      "120 גרם אורז מבושל",
+      "30 גרם גבינה צהובה קלה",
+      "עגבנייה ותירס",
+      "2 כפות יוגורט יווני"
+    ],
+    "steps": [
+      "מבשלים בשר עם תבלינים.",
+      "ממלאים טורטייה באורז, בשר, גבינה ותוספות.",
+      "מגלגלים וצורבים קלות."
+    ],
+    "tags": [
+      "weekend",
+      "burrito"
+    ]
+  },
+  {
+    "id": "d47",
+    "name": "מוס יוגורט-קקאו חלבוני",
+    "category": "Dessert",
+    "mealType": "dessert",
+    "servings": 1,
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 24,
+      "carbs_g": 14,
+      "fat_g": 7
+    },
+    "times": {
+      "prep_min": 5,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "200 גרם יוגורט יווני",
+      "כפית קקאו",
+      "מעט ממתיק לפי הצורך",
+      "10 גרם שוקולד מריר קצוץ"
+    ],
+    "steps": [
+      "מערבבים יוגורט, קקאו וממתיק.",
+      "מוסיפים מעל שוקולד מריר קצוץ."
+    ],
+    "tags": [
+      "dessert",
+      "high-protein",
+      "sweet"
+    ]
+  },
+  {
+    "id": "d48",
+    "name": "קרם יוגורט עם בננה וחמאת בוטנים",
+    "category": "Dessert",
+    "mealType": "dessert",
+    "servings": 1,
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 23,
+      "carbs_g": 24,
+      "fat_g": 11
+    },
+    "times": {
+      "prep_min": 5,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "200 גרם יוגורט יווני",
+      "חצי בננה",
+      "כפית חמאת בוטנים",
+      "קינמון"
+    ],
+    "steps": [
+      "מערבבים את היוגורט בקערה.",
+      "מוסיפים בננה, קינמון וחמאת בוטנים."
+    ],
+    "tags": [
+      "dessert",
+      "sweet"
+    ]
+  },
+  {
+    "id": "d49",
+    "name": "גלידת נינג׳ה חלבונית תות-וניל",
+    "category": "Dessert",
+    "mealType": "dessert",
+    "servings": 1,
+    "nutrition": {
+      "calories": 240,
+      "protein_g": 26,
+      "carbs_g": 20,
+      "fat_g": 5
+    },
+    "times": {
+      "prep_min": 5,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "200 גרם יוגורט יווני",
+      "100 גרם תות קפוא",
+      "מעט תמצית וניל",
+      "כפית דבש אם צריך"
+    ],
+    "steps": [
+      "טוחנים הכל בנינג׳ה עד מרקם גלידה.",
+      "מגישים מיד או מקפיאים ל-20 דקות למרקם יציב יותר."
+    ],
+    "tags": [
+      "dessert",
+      "frozen",
+      "high-protein"
+    ]
+  },
+  {
+    "id": "d50",
+    "name": "פודינג יוגורט חלבוני עם אגס וקינמון",
+    "category": "Dessert",
+    "mealType": "dessert",
+    "servings": 1,
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 24,
+      "carbs_g": 18,
+      "fat_g": 6
+    },
+    "times": {
+      "prep_min": 5,
+      "cook_min": 0
+    },
+    "storage": {
+      "meal_prep": false,
+      "freezer_friendly": false
+    },
+    "ingredients": [
+      "200 גרם יוגורט יווני",
+      "חצי אגס חתוך קטן",
+      "קינמון",
+      "כפית סירופ ללא סוכר או דבש קל"
+    ],
+    "steps": [
+      "מערבבים יוגורט עם קינמון.",
+      "מוסיפים אגס וסירופ קל לפי הטעם."
+    ],
+    "tags": [
+      "dessert",
+      "quick",
+      "high-protein"
+    ]
+  }
+]
