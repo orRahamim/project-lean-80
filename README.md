@@ -1,10 +1,26 @@
-# GitHub Pages Recipe App Update
-
-This package updates the existing app structure shown by the user:
-- index.html
-- manifest.webmanifest
-- service-worker.js
-- assets/
-- recipes-v1.json
-
-Upload these files into the repository root, replacing the old index.html and service-worker.js.
+{
+  "name": "Prep Recipe DB",
+  "short_name": "Recipe DB",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f4",
+  "theme_color": "#c94f3d",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
