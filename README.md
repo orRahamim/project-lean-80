@@ -1,26 +1,20 @@
-# Project Lean 80
+# Pasta Prep for GitHub Pages
 
-Personal nutrition and fitness system.
+This package is ready for a GitHub Pages project site.
 
-## Goal
+## Files
+- `index.html` - main app entry file
+- `manifest.webmanifest` - PWA manifest
+- `service-worker.js` - offline support
+- `assets/` - icons
 
-Build a sustainable lifestyle focused on:
+## Quick publish
+1. Create a new public repository on GitHub.
+2. Upload all files from this folder to the repository root.
+3. Go to `Settings` -> `Pages`.
+4. Under `Build and deployment`, choose `Deploy from a branch`.
+5. Select branch `main` and folder `/ (root)`.
+6. Save and wait for the site URL.
 
-- Fat loss
-- Muscle preservation
-- Strength training
-- Long term healthy eating
-
-## Structure
-
-- Dashboard - personal progress tracking
-- Recipes - tested recipes and meals
-- Desserts - high protein desserts
-- Meal Prep - weekly preparation systems
-- Shopping - grocery management
-- Equipment - tools and storage
-- Weekly Plans - weekly menus
-
-## Version
-
-v0.1
+Your URL will usually be:
+`https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`
