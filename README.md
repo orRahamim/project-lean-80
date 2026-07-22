@@ -1,5 +1,5 @@
 {
-  "name": "Prep Recipe DB",
+  "name": "Recipe DB",
   "short_name": "Recipe DB",
   "start_url": "./",
   "scope": "./",
