@@ -250,7 +250,12 @@ function render() {
 }
 
 async function init() {
-  const response = await fetch('./recipes-v2.json');
+  const response = await fetch('./recipes-v2.json', { cache: 'no-store' });
+
+  if (!response.ok) {
+    throw new Error(`Failed to load recipes: ${response.status}`);
+  }
+
   const data = await response.json();
 
   state.recipes = data;
@@ -291,5 +296,12 @@ async function init() {
 els.closeDrawer.addEventListener('click', closeRecipe);
 els.backdrop.addEventListener('click', closeRecipe);
 
-init();
+init().catch(() => {
+  els.recipes.innerHTML = `
+    <article class="card">
+      <h2>Could not load recipes</h2>
+      <p>Please refresh the page to retry.</p>
+    </article>
+  `;
+});
 
